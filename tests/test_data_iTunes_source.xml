@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.4.3.1</string>
+	<key>Date</key><date>2016-09-06T20:29:25Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>D66BE9F1FE8EF1C6</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7612</key>
+		<dict>
+			<key>Track ID</key><integer>7612</integer>
+			<key>Size</key><integer>4126592</integer>
+			<key>Total Time</key><integer>112266</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:52:12Z</date>
+			<key>Date Added</key><date>2016-06-19T21:52:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC3EE4C59D6C01B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Last Chance</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/01%20Last%20Chance%201.m4a</string>
+		</dict>
+		<key>7614</key>
+		<dict>
+			<key>Track ID</key><integer>7614</integer>
+			<key>Size</key><integer>7451202</integer>
+			<key>Total Time</key><integer>213800</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:52:28Z</date>
+			<key>Date Added</key><date>2016-06-19T21:52:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3534863675</integer>
+			<key>Play Date UTC</key><date>2016-01-05T17:34:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-02T07:40:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FFFBE37D203C21C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Are You Gonna Be My Girl</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/02%20Are%20You%20Gonna%20Be%20My%20Girl.m4a</string>
+		</dict>
+		<key>7616</key>
+		<dict>
+			<key>Track ID</key><integer>7616</integer>
+			<key>Size</key><integer>7016693</integer>
+			<key>Total Time</key><integer>196600</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:52:44Z</date>
+			<key>Date Added</key><date>2016-06-19T21:52:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3535809802</integer>
+			<key>Play Date UTC</key><date>2016-01-16T16:23:22Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4ED0AAAC5AF9D0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rollover D.J.</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/03%20Rollover%20D.J.%201.m4a</string>
+		</dict>
+		<key>7618</key>
+		<dict>
+			<key>Track ID</key><integer>7618</integer>
+			<key>Size</key><integer>7885551</integer>
+			<key>Total Time</key><integer>230893</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:52:48Z</date>
+			<key>Date Added</key><date>2016-06-19T21:52:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53EDAEBF85BB9269</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Look What You've Done</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/04%20Look%20What%20You've%20Done%201.m4a</string>
+		</dict>
+		<key>7620</key>
+		<dict>
+			<key>Track ID</key><integer>7620</integer>
+			<key>Size</key><integer>8446082</integer>
+			<key>Total Time</key><integer>247640</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:53:05Z</date>
+			<key>Date Added</key><date>2016-06-19T21:52:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44DD938CF2F15FDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Get What You Need</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/05%20Get%20What%20You%20Need%201.m4a</string>
+		</dict>
+		<key>7622</key>
+		<dict>
+			<key>Track ID</key><integer>7622</integer>
+			<key>Size</key><integer>8860699</integer>
+			<key>Total Time</key><integer>260533</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:53:22Z</date>
+			<key>Date Added</key><date>2016-06-19T21:53:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42605AA6AC667AA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Move On</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/06%20Move%20On%201.m4a</string>
+		</dict>
+		<key>7624</key>
+		<dict>
+			<key>Track ID</key><integer>7624</integer>
+			<key>Size</key><integer>9273483</integer>
+			<key>Total Time</key><integer>272026</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:53:39Z</date>
+			<key>Date Added</key><date>2016-06-19T21:53:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>888F8DCB64C35B96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Radio Song</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/07%20Radio%20Song%201.m4a</string>
+		</dict>
+		<key>7626</key>
+		<dict>
+			<key>Track ID</key><integer>7626</integer>
+			<key>Size</key><integer>6325872</integer>
+			<key>Total Time</key><integer>176173</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:53:54Z</date>
+			<key>Date Added</key><date>2016-06-19T21:53:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3543513990</integer>
+			<key>Play Date UTC</key><date>2016-04-14T19:26:30Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F3D9BD572D0AF46</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Get Me Outta Here</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/08%20Get%20Me%20Outta%20Here%201.m4a</string>
+		</dict>
+		<key>7628</key>
+		<dict>
+			<key>Track ID</key><integer>7628</integer>
+			<key>Size</key><integer>8565712</integer>
+			<key>Total Time</key><integer>243200</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:54:09Z</date>
+			<key>Date Added</key><date>2016-06-19T21:53:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5877B9B951A3E911</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Cold Hard Bitch</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/09%20Cold%20Hard%20Bitch%201.m4a</string>
+		</dict>
+		<key>7630</key>
+		<dict>
+			<key>Track ID</key><integer>7630</integer>
+			<key>Size</key><integer>9366234</integer>
+			<key>Total Time</key><integer>270400</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:54:26Z</date>
+			<key>Date Added</key><date>2016-06-19T21:54:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>028B8DBC6CFB6AD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Come Around Again</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/10%20Come%20Around%20Again%201.m4a</string>
+		</dict>
+		<key>7632</key>
+		<dict>
+			<key>Track ID</key><integer>7632</integer>
+			<key>Size</key><integer>5346635</integer>
+			<key>Total Time</key><integer>142800</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:54:40Z</date>
+			<key>Date Added</key><date>2016-06-19T21:54:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF14E4862135D562</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Take It Or Leave It</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/11%20Take%20It%20Or%20Leave%20It%201.m4a</string>
+		</dict>
+		<key>7634</key>
+		<dict>
+			<key>Track ID</key><integer>7634</integer>
+			<key>Size</key><integer>9518775</integer>
+			<key>Total Time</key><integer>282093</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:55:07Z</date>
+			<key>Date Added</key><date>2016-06-19T21:54:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61B6C2FBD3F33EA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lazy Gun</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/12%20Lazy%20Gun%201.m4a</string>
+		</dict>
+		<key>7636</key>
+		<dict>
+			<key>Track ID</key><integer>7636</integer>
+			<key>Size</key><integer>9115459</integer>
+			<key>Total Time</key><integer>270240</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-06-19T21:55:34Z</date>
+			<key>Date Added</key><date>2016-06-19T21:55:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8722519A92F74A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Timothy</string>
+			<key>Artist</key><string>Jet</string>
+			<key>Album</key><string>Get Born</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Location</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/Music/Jet/Get%20Born/13%20Timothy%201.m4a</string>
+		</dict>
+	</dict>
+	<key>Music Folder</key><string>file:///Users/luca/Music/iTunes/iTunes%20Media/</string>
+</dict>
+</plist>

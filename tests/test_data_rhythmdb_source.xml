@@ -1,0 +1,402 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="song">
+    <title>Cold Hard Bitch</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>9</track-number>
+    <duration>243</duration>
+    <file-size>8565712</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/09%20Cold%20Hard%20Bitch%201.m4a</location>
+    <mtime>1466373249</mtime>
+    <first-seen>1472801462</first-seen>
+    <last-seen>1473091585</last-seen>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Are You Gonna Be My Girl</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>2</track-number>
+    <duration>213</duration>
+    <file-size>7451202</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/02%20Are%20You%20Gonna%20Be%20My%20Girl%201.m4a</location>
+    <mtime>1472290494</mtime>
+    <first-seen>1473088189</first-seen>
+    <last-seen>1473091585</last-seen>
+    <rating>5</rating>
+    <play-count>12</play-count>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <album-artist>Jet</album-artist>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Get What You Need</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>5</track-number>
+    <duration>247</duration>
+    <file-size>8446082</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/05%20Get%20What%20You%20Need%201.m4a</location>
+    <mtime>1466373185</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <rating>4</rating>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Radio Song</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>7</track-number>
+    <duration>272</duration>
+    <file-size>9273483</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/07%20Radio%20Song%201.m4a</location>
+    <mtime>1466373219</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <play-count>13</play-count>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Look What You've Done</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>4</track-number>
+    <duration>230</duration>
+    <file-size>7885551</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/04%20Look%20What%20You've%20Done%201.m4a</location>
+    <mtime>1466373168</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <rating>3</rating>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Lazy Gun</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>12</track-number>
+    <duration>282</duration>
+    <file-size>9518775</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/12%20Lazy%20Gun%201.m4a</location>
+    <mtime>1466373307</mtime>
+    <first-seen>1472801504</first-seen>
+    <last-seen>1473091585</last-seen>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Move On</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>6</track-number>
+    <duration>260</duration>
+    <file-size>8860699</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/06%20Move%20On%201.m4a</location>
+    <mtime>1466373202</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Rollover D.J.</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>3</track-number>
+    <duration>196</duration>
+    <file-size>7016693</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/03%20Rollover%20D.J.%201.m4a</location>
+    <mtime>1466373164</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <rating>1</rating>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Timothy</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>13</track-number>
+    <duration>270</duration>
+    <file-size>9115459</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/13%20Timothy%201.m4a</location>
+    <mtime>1466373334</mtime>
+    <first-seen>1472811455</first-seen>
+    <last-seen>1473091585</last-seen>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Last Chance</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>1</track-number>
+    <duration>112</duration>
+    <file-size>4126592</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/01%20Last%20Chance%201.m4a</location>
+    <mtime>1466373132</mtime>
+    <first-seen>1472801449</first-seen>
+    <last-seen>1473091585</last-seen>
+    <rating>2</rating>
+    <play-count>1</play-count>
+    <last-played>1473078665</last-played>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Take It Or Leave It</title>
+    <genre>Alternative</genre>
+    <artist>Jet</artist>
+    <album>Get Born</album>
+    <track-number>11</track-number>
+    <duration>142</duration>
+    <file-size>5346635</file-size>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/11%20Take%20It%20Or%20Leave%20It%201.m4a</location>
+    <mtime>1466373280</mtime>
+    <first-seen>1472801484</first-seen>
+    <last-seen>1473091585</last-seen>
+    <bitrate>256</bitrate>
+    <date>731216</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (Low Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wkncmq.ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (High Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wknchq.ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://vu.wsum.wisc.edu/wsumlive.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_192m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (Low Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_96m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KWUR 90.3 FM St. Louis Underground Radio</title>
+    <genre>Unknown</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.kwur.com/icecast/kwurogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/Music/CREEDENCE%20CLEARWATER%20REVIVAL%20-%20West%20Coast%20Collection%20(1998)%20%20.mp3%20%5BBRSHNKV%5D/Creedence%20Clearwater%20Revival_West%20Coast%20Collection_1998.jpg</location>
+    <mtime>1470927589</mtime>
+    <last-seen>1472801437</last-seen>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/Music/CREEDENCE%20CLEARWATER%20REVIVAL%20-%20West%20Coast%20Collection%20(1998)%20%20.mp3%20%5BBRSHNKV%5D/Creedence%20Clearwater%20Revival_West%20Coast%20Collection_1969.jpg</location>
+    <mtime>1470927587</mtime>
+    <last-seen>1472801437</last-seen>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/Artwork.jpg</location>
+    <mtime>1352414834</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/10%20Come%20Around%20Again%201.m4a</location>
+    <mtime>1472801479</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/08%20Get%20Me%20Outta%20Here%201.m4a</location>
+    <mtime>1472801461</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/AlbumArtSmall.jpg</location>
+    <mtime>1352414834</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/exported_sab_ago_27_111922_Songbird.xml</location>
+    <mtime>1472289655</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/Music/CREEDENCE%20CLEARWATER%20REVIVAL%20-%20West%20Coast%20Collection%20(1998)%20%20.mp3%20%5BBRSHNKV%5D/Creedence%20Clearwater%20Revival_West%20Coast%20Collection_1970.jpg</location>
+    <mtime>1470927592</mtime>
+    <last-seen>1472801437</last-seen>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/exported_sab_ago_27_112212_Itunes.xml</location>
+    <mtime>1472289781</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/maffelu/BTSync/Music/Jet/Get%20Born/Folder.jpg</location>
+    <mtime>1352414834</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
