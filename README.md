@@ -1,7 +1,14 @@
 # mmsync
 Music Meta Sync: sync music metadata between iTunes (Read only), Rhythmbox and PlayerPro.
 
-What you can do:
+## What?
+
+Do you have a big music collection in iTunes?
+Have you spent a lot of time in adding ratings to your tracks?
+Do you want to move your library to Linux without loosing all your information?
+Do you also want to sync these metadata between Linux and your android device?
+
+Than mmsync is what you need, as you can:
 - import ratings and playcounts from iTunes to Rhythmbox
 - import/export ratings and playcounts between Rhythmbox (linux) and PlayerPro (android)
 
