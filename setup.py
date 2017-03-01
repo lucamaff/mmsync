@@ -1,20 +1,15 @@
 from setuptools import setup, find_packages
 
-with open('README.md') as f:
-    readme = f.read()
-
-with open('LICENSE') as f:
-    license = f.read()
+version = '0.1.0'
 
 setup(
     name='mmsync',
-    version='0.1.0',
+    version=version,
     description='Music Meta Sync: sync music metadata between iTunes, Rhythmbox and PlayerPro',
-    long_description=readme,
-    author='Luca Maffenini',
-    author_email='lucamaffen@gmail.com',
-    url='',
-    license=license,
+    author='Luca Maff',
+    author_email='mafffigo@gmail.com',
+    url='https://github.com/mafffigo/mmsync',
+    download_url = 'https://github.com/mafffigo/mmsync/archive/' + version + '.tar.gz',
     packages=find_packages(exclude=('tests', 'docs')),
     entry_points = {
         'console_scripts': ['mmsync=mmsync.command_line:main'],
